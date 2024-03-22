@@ -1,5 +1,5 @@
-# **Plugin Name** Plugin
+# discourse-tags-suppressed
 
-**Plugin Summary**
+Suppress tags from latest topics page.
 
-For more information, please see: **url to meta topic**
+Mostly copied from https://github.com/discourse/discourse-categories-suppressed

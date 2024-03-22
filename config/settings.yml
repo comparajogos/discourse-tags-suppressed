@@ -1,4 +1,4 @@
-TODO_plugin_name:
-  plugin_name_enabled:
-    default: false
-    client: true
+plugins:
+  tags_suppressed_from_latest:
+    type: tag_list
+    default: ""
